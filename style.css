@@ -59,6 +59,9 @@ p {
   color: white;
   cursor: pointer;
 }
+h2 {
+  text-align: center;
+}
 
 .top-1 h1 {
   width: 98vw;
