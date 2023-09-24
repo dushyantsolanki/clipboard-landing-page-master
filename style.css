@@ -4,7 +4,7 @@
   font-family: "Bai Jamjuree", sans-serif;
 }
 body{
-  overflow:hidden;
+overflow-x: hidden;
 }
 
 .allClass {
